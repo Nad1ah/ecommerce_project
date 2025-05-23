@@ -1,4 +1,4 @@
-# Documentação do Projeto: Plataforma de E-commerce para Produtos Artesanais
+# Plataforma de E-commerce para Produtos Artesanais
 
 ## Visão Geral
 
