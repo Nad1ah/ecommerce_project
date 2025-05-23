@@ -53,4 +53,4 @@
 - [x] Revisar todo o código
 - [x] Otimizar performance
 - [x] Preparar para deployment
-- [x] Validar projeto com a usuária
+  
